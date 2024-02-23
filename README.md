@@ -1,6 +1,5 @@
 # assignment_1_first
 first assignment 
 Hello there 
-I can here you
-Thanks for res
-Anytime 
+I can hear you
+
